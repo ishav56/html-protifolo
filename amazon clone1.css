@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    border: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* first-navbar  */
+.navbar {
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    height: 60px;
+    background-color: #0f1111;
+}
+
+/* set logo amazon */
+.div-logo {
+
+    height: 50px;
+    width: 100px;
+}
+
+.logo {
+    background-image: url("amazon_logo.png");
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+}
+
+.border {
+    border: 1px solid transparent;
+}
+
+.border:hover {
+    border: 1px solid white;
+}
+
+/* loaction div */
+.addresh-div {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 2px;
+    padding-left: 2px;
+    color: aliceblue;
+
+    width: 181.13px;
+}
+
+.paregraph1 {
+    margin: 0px 0px 0px 15px;
+    font-size: 12px;
+    height: -1rem;
+    color: #ccc;
+}
+
+.paregraph2 {
+
+    height: 15.99px;
+    color: #FFF;
+    font-size: 1rem;
+}
+
+.location-logo {
+    align-items: center;
+    display: flex;
+}
+
+.logo2 {
+
+    height: 17.99px;
+    width: 15px;
+}
+
+.border {
+    border: 1px solid transparent;
+}
+
+.border:hover {
+    border: 1px solid white;
+}
+
+/* search bar create */
+.search-div {
+
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: rgb(255, 187, 0);
+    width: 918.3px;
+    height: 40px;
+    display: flex;
+}
+
+.search-bar {
+    font-size: .9rem;
+    border: none;
+    width: 918.3px;
+}
+
+.search-all {
+    border: none;
+    text-align: center;
+    width: 51.56px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: #e6e6e6;
+}
+
+.search-icon {
+    color: #0f1111;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 45px;
+}
+
+.search-div:hover {
+    border: 2px solid orange;
+}
+
+
+/* flag and language  */
+.language-div {
+    padding-left: 8px;
+    align-items: center;
+    border: none;
+    display: flex;
+    height: 50px;
+    width: 73.19px;
+    font-size: 14px;
+}
+
+.search-language {
+    height: 15px;
+    width: 18.27px;
+}
+
+.language {
+    border: none;
+    background-color: #0f1111;
+    color: #FFF;
+    height: 15px;
+
+}
+
+.india-flag {
+    height: 15px;
+    width: 21.6px;
+}
+
+.flag {
+    height: 15px;
+    width: 21.6px;
+}
+
+.border {
+    border: 1px transparent solid;
+}
+
+.border:hover {
+    border: 1px transparent white;
+}
+
+/* sign in account list */
+.account-div {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    border: none;
+    line-height: 20px;
+    margin: 0px 0px 0px 2px;
+    align-items: center;
+    width: 131.34px;
+    height: 40.1px;
+}
+
+.signin {
+    height: 14px;
+    font-size: 0.7rem;
+    color: #FFF;
+}
+
+.list {
+    margin-left: -3px;
+    border: none;
+    background-color: #0f1111;
+    height: 15px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #FFF;
+}
+
+.border {
+    border: 1px solid transparent;
+    border-width: 2px;
+}
+
+.border:hover {
+    border: 1px transparent white;
+}
+
+/* order and return  */
+.order-div {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 5px;
+    padding-right: 3px;
+
+}
+
+.border {
+    border: 1px solid transparent;
+    border-width: 2px;
+}
+
+.border:hover {
+    border: 1px transparent white;
+}
+
+/* cart */
+.cart-div {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 83.98px;
+    height: 40.1px;
+}
+
+.cart {
+    color: #FFF;
+}
+
+.paregraph3 {
+    font-weight: 700;
+    margin: 10px 0px 0px 3px;
+    font-size: 0.85rem;
+    color: #FFF;
+}
+
+.border {
+    border: 1px solid transparent;
+
+}
+
+.border:hover {
+    border: 1px transparent white;
+}
